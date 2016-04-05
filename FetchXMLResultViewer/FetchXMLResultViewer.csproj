@@ -33,10 +33,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="McTools.Xrm.Connection">
-      <HintPath>..\..\Libraries repository\McTools.Xrm.Connection.dll</HintPath>
+      <HintPath>..\lib\McTools.Xrm.Connection.dll</HintPath>
     </Reference>
     <Reference Include="McTools.Xrm.Connection.WinForms">
-      <HintPath>..\..\Libraries repository\McTools.Xrm.Connection.WinForms.dll</HintPath>
+      <HintPath>..\lib\McTools.Xrm.Connection.WinForms.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Crm.Sdk.Proxy">
       <HintPath>..\..\..\..\..\Dynamics CRM 2016\Dynamics CRM 2016\SDK\SDK\Bin\Microsoft.Crm.Sdk.Proxy.dll</HintPath>
